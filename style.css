@@ -1,0 +1,7 @@
+body {
+	background-color: white;
+}
+
+.navbar-header a:visited, a:link {
+	color: white;
+}
